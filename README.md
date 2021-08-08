@@ -1,6 +1,6 @@
 # React Dropzone Textarea
 
-This is a fork from [Andy Gock's]() repository [React Dropzone Textarea](). It is in typescript and and has updated dependencies.
+This is a fork from [Andy Gock's](https://github.com/andygock) repository [React Dropzone Textarea](https://github.com/andygock/react-dropzone-textarea). It is in typescript and and has updated dependencies.
 
 A React component of a textarea element. Drop a text file onto the element and load file contents as textarea's value. Essentially, it's a textarea wrapper with [react-dropzone](https://github.com/react-dropzone/react-dropzone).
 
